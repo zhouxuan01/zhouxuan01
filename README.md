@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhouxuan01
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science
+- 💞️ I’m looking to collaborate on Data Science, Data Analysis and Machine Learning
 - 📫 How to reach me email_ zx_zhou99@yahoo.com
 
 <!---
